@@ -1,2 +1,1 @@
-# tiny-transformer
-worlds most pathetic language model
+Challenge for myself: train a language model on a windows pc with an amd gpu, for some reason, while using as few dependencies as possible.
